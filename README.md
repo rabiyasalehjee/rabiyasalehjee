@@ -7,9 +7,8 @@ I'm a Backend Engineer and M.Sc. student in Computer Science, passionate about D
 - 🌟 Best Graduation Project Award from Pakistan IoT Center (2022)
 - 🌱 Currently learning more about Cloud Computing (AWS, Azure), LLMs, and advanced NLP techniques.
 
-## 👨‍💻 Technologies I work with
+## 👨‍💻 When I code, I rely on
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow)
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="Java" src= "https://img.shields.io/badge/-Java-7953b3?style=flat-square&logo=Java&logoColor=white" />
@@ -22,7 +21,7 @@ I'm a Backend Engineer and M.Sc. student in Computer Science, passionate about D
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-007ACC?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-f7df1c?style=flat-square&logo=TensorFlowlogoColor=black"/>
 </p>

@@ -36,6 +36,9 @@ I'm a Backend Engineer and M.Sc. student in Computer Science, passionate about D
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Microsoft-Azure)
 ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=NLP)
 
-## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=Linkedin)](https://linkedin.com/in/rabiyasalehjee)
-[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=Gmail)](mailto:rabiya.salehjee@gmail.com)
+
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabiyasalehjee&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiyasalehjee&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)

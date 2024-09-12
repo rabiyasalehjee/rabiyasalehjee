@@ -9,18 +9,11 @@ I'm a Backend Engineer and M.Sc. student in Computer Science, passionate about D
 
 ## 👨‍💻 Technologies I work with
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow)
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="Java" src= "https://img.shields.io/badge/-Java-7953b3?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-ff62f6?style=flat-square&logo=C&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
@@ -30,6 +23,8 @@ I'm a Backend Engineer and M.Sc. student in Computer Science, passionate about D
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-f7df1c?style=flat-square&logo=TensorFlowlogoColor=black"/>
 </p>
 
 ## 🚀 Projects

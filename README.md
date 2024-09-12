@@ -8,6 +8,7 @@ I'm a Backend Engineer and M.Sc. student in Computer Science, passionate about D
 - 🌱 Currently learning more about Cloud Computing (AWS, Azure), LLMs, and advanced NLP techniques.
 
 ## 👨‍💻 Technologies I work with
+<p>
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
@@ -17,7 +18,7 @@ I'm a Backend Engineer and M.Sc. student in Computer Science, passionate about D
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow)
-<p>
+
   <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />

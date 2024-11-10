@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rabiya Salehjee
 
-I'm a Backend Engineer and M.Sc. student in Computer Science, passionate about Data Cleaning, Machine Learning, and Large Language Models (LLMs). Currently working on optimizing data quality through innovative solutions.
+I'm a Backend Engineer and M.S student in Computer Science, passionate about Data Cleaning, Machine Learning, and Large Language Models (LLMs). Currently working on optimizing data quality through innovative solutions.
 
 - 🎓 Pursuing my Master’s at Harbin Institute of Technology, China.
 - 💻 Previously worked on **Fluencio** java-based mobile application.
@@ -32,9 +32,9 @@ I'm a Backend Engineer and M.Sc. student in Computer Science, passionate about D
    - Optimized data cleaning using NLP, SQL query generation from natural language, and knowledge graph creation.
    
 ## 🌱 Currently Learning
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Microsoft-Azure)
-![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=NLP)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=openai)
+![ML](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=tensorflow)
 
 
 ### My GitHub contributions summary

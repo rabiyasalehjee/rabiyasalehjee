@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rabiya Salehjee
 
-I’m a passionate software developer with a deep love for full-stack development, data analysis, and large language models. My work is focused on delivering exceptional solutions that blend creativity with technical expertise. Whether it's front-end magic or back-end robustness, I thrive in bringing ideas to life with clean, scalable code.
+I’m a passionate software engineer with a deep love for full-stack development, data analysis, and large language models. My work is focused on delivering exceptional solutions that blend creativity with technical expertise. Whether it's front-end magic or back-end robustness, I thrive in bringing ideas to life with clean, scalable code.
 
 - 🎓 Pursuing my Master’s at Harbin Institute of Technology, China.
 - 💻 Previously worked on **Fluencio** java-based mobile application.

@@ -5,7 +5,6 @@ I'm a Backend Engineer and M.S student in Computer Science, passionate about Dat
 - 🎓 Pursuing my Master’s at Harbin Institute of Technology, China.
 - 💻 Previously worked on **Fluencio** java-based mobile application.
 - 🌟 Best Graduation Project Award from Pakistan IoT Center (2022)
-- 🌱 Currently learning more about Cloud Computing (AWS, Azure), LLMs, and advanced NLP techniques.
 
 ## 👨‍💻 When I code, I rely on
 
@@ -28,19 +27,14 @@ I'm a Backend Engineer and M.S student in Computer Science, passionate about Dat
 
 ## 🚀 Projects
 - [Graduation Project: HALO - Human-and-LLM-in-the-Loop Data Cleaning System](https://github.com/rabiyasalehjee/Graduation-Project)
-   - Developed an advanced system combining human knowledge and LLMs to improve data quality.
-   - Optimized data cleaning using NLP, SQL query generation from natural language, and knowledge graph creation.
+   - Developed an advanced data cleaning system combining human inference and LLMs to improve data quality.
+   - Optimized data cleaning using LLM, RAG, and knowledge graph creation and reduced human efforts by following the cognitive load principles.
    
 ## 🌱 Currently Learning
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=openai)
 ![ML](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=tensorflow)
 
-
-### My GitHub contributions summary
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabiyasalehjee&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiyasalehjee&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ### Top Languages
 

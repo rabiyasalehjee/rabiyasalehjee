@@ -16,19 +16,13 @@ I’m a passionate software engineer with a deep love for full-stack development
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+ <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-007ACC?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-f7df1c?style=flat-square&logo=TensorFlowlogoColor=black"/>
 </p>
-
-## 🚀 Projects
-- [Graduation Project: HALO - Human-and-LLM-in-the-Loop Data Cleaning System](https://github.com/rabiyasalehjee/Graduation-Project)
-   - Developed an advanced data cleaning system combining human inference and LLMs to improve data quality.
-   - Optimized data cleaning using LLM, RAG, and knowledge graph creation and reduced human efforts by following the cognitive load principles.
    
 ## 🌱 Currently Learning
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)

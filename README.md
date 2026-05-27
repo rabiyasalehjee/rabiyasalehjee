@@ -1,37 +1,98 @@
-# Hi there 👋, I'm Rabiya Salehjee
+# Hi 👋 I'm Rabiya Salehjee
 
-I’m a passionate software engineer with a deep love for full-stack development, data analysis, and large language models. My work is focused on delivering exceptional solutions that blend creativity with technical expertise. Whether it's front-end magic or back-end robustness, I thrive in bringing ideas to life with clean, scalable code.
+### Full-Stack Software Engineer | React • Next.js • TypeScript • AI/LLM Integration • 3D Web
 
-- 🎓 Pursuing my Master’s at Harbin Institute of Technology, China.
-- 💻 Previously worked on **Fluencio** java-based mobile application.
-- 🌟 Best Graduation Project Award from Pakistan IoT Center (2022)
+I’m a full-stack software engineer passionate about building modern web, desktop, and AI-powered applications. I enjoy creating scalable products that combine clean architecture, interactive user experiences, and real-time systems.
 
-## 👨‍💻 When I code, I rely on
+Currently working at **Sencity Corp.**, where I build enterprise dashboards, cross-platform desktop applications, real-time systems, and immersive 3D web experiences using modern JavaScript technologies and AI integrations. :contentReference[oaicite:0]{index=0}
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=Python&logoColor=white"/>
-  <img alt="Java" src= "https://img.shields.io/badge/-Java-7953b3?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-ff62f6?style=flat-square&logo=C&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
- <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-007ACC?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-f7df1c?style=flat-square&logo=TensorFlowlogoColor=black"/>
-</p>
-   
-## 🌱 Currently Learning
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=openai)
-![ML](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=tensorflow)
+---
 
+## 🚀 About Me
+
+- 💼 Cross-Platform Web & Software Engineer at **Sencity Corp.**
+- 🎓 Master’s in Computer Science from **Harbin Institute of Technology**
+- 🌍 Based between Pakistan & China
+- 🤖 Interested in AI, LLMs, real-time systems, and 3D web experiences
+- 🏆 Best Undergraduate Project Award — Pakistan Center for IoT
+- 📫 Reach me at: **rabiya.salehjee@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio)
+
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### 3D & Graphics
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square)
+![React Three Fiber](https://img.shields.io/badge/-React_Three_Fiber-black?style=flat-square)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## 🌱 Currently Exploring
+
+- Large Language Models (LLMs)
+- RAG Applications
+- Real-Time AI Systems
+- Advanced Three.js & WebGL
+- Cross-Platform Desktop Engineering
+
+---
+
+## 📌 Featured Work
+
+✨ Enterprise dashboard systems with real-time multi-screen control  
+✨ AI-powered desktop applications with speech recognition  
+✨ Interactive 3D web experiences using Three.js & WebGL  
+✨ Real-time device orchestration and kiosk systems  
+✨ LLM-integrated applications using OpenAI & Gemini APIs
+
+---
+
+## 📊 GitHub Stats
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyasalehjee&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyasalehjee&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabiyasalehjee99)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rabiyasalehjee.com)
+
+---
+
+⭐️ *Always building, always learning.*

@@ -4,7 +4,7 @@
 
 I’m a full-stack software engineer passionate about building modern web, desktop, and AI-powered applications. I enjoy creating scalable products that combine clean architecture, interactive user experiences, and real-time systems.
 
-Currently working at **Sencity Corp.**, where I build enterprise dashboards, cross-platform desktop applications, real-time systems, and immersive 3D web experiences using modern JavaScript technologies and AI integrations. :contentReference[oaicite:0]{index=0}
+Currently working at **Sencity Corp.**, where I build enterprise dashboards, cross-platform desktop applications, real-time systems, and immersive 3D web experiences using modern JavaScript technologies and AI integrations.
 
 ---
 
@@ -12,7 +12,6 @@ Currently working at **Sencity Corp.**, where I build enterprise dashboards, cro
 
 - 💼 Cross-Platform Web & Software Engineer at **Sencity Corp.**
 - 🎓 Master’s in Computer Science from **Harbin Institute of Technology**
-- 🌍 Based between Pakistan & China
 - 🤖 Interested in AI, LLMs, real-time systems, and 3D web experiences
 - 🏆 Best Undergraduate Project Award — Pakistan Center for IoT
 - 📫 Reach me at: **rabiya.salehjee@gmail.com**
@@ -77,21 +76,6 @@ Currently working at **Sencity Corp.**, where I build enterprise dashboards, cro
 ✨ Interactive 3D web experiences using Three.js & WebGL  
 ✨ Real-time device orchestration and kiosk systems  
 ✨ LLM-integrated applications using OpenAI & Gemini APIs
-
----
-
-## 📊 GitHub Stats
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyasalehjee&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabiyasalehjee99)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rabiyasalehjee.com)
 
 ---
 
